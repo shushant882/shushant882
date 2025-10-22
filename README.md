@@ -1,4 +1,15 @@
+# 💫 Hi 👋, I'm Shushant
+**A passionate Android Developer || Ai/ML**
 
+Email Me 👉 ✉️ **shushant192004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working in:** Hooman Pvt Ltd.
+- 🌱 **I’m currently learning:** Flutter,Backend
+- 👯 **I’m looking to collaborate on:** Any Native Android Project
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** shushant192004@gmail.com
+- 😄 **Pronouns:** sushi
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shushant._.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shushant336) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shushant192004@gmail.com) 
 
@@ -8,6 +19,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=shushant882&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shushant882&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shushant882&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shushant882&theme=neon&no-frame=false&no-bg=false&margin-w=4)
