@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **shushant192004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working in:** Hooman Pvt Ltd.
+
 - 🌱 **I’m currently learning:** Flutter,Backend
 - 👯 **I’m looking to collaborate on:** Any Native Android Project
 - 💬 **Ask me about:** Collaboration, Tech Support
