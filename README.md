@@ -1,11 +1,14 @@
-# 💫 Hi 👋, I'm Shushant
+<div align="center">
 
+# 💫 Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shushant
 
-### 👋 Full Stack Developer || Android || AI/LLM Enthusiast
+### 👋[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C%7C+Android+%7C%7C+AI%2FLLM;Building+end-to-end+AI-powered+products;I+ship+LLMs+from+API+to+production)](https://git.io/typing-svg)
 
 Building end-to-end products that blend Android, web development, and practical AI — from data pipelines to LLM-powered interfaces.
 
 Email Me 👉 ✉️ **shushant192004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+</div>
 
 - 🌱 **I'm currently learning:** LangChain, RAG, Vector Databases, Next.js
 - 👯 **I'm looking to collaborate on:** Android or full-stack projects with LLM/AI integration
@@ -13,11 +16,33 @@ Email Me 👉 ✉️ **shushant192004@gmail.com** For Collaboration/Project or A
 - 📫 **How to reach me:** shushant192004@gmail.com
 - 😄 **Pronouns:** sam
 - ⚡ **Fun fact:** I build apps that talk back — literally, I ship LLMs end-to-end 🤖
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shushant._.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shushant336) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shushant192004@gmail.com) 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+
+# 💻 Tech Stack
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,java" />
+
+### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,nodejs,js,ts,html,css" />
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,opencv" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_APIs-OpenAI_%7C_Anthropic-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql,firebase" />
+
+### ⚙️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shushant882&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shushant882&theme=dark&hide_border=false)<br/>
@@ -25,25 +50,20 @@ Email Me 👉 ✉️ **shushant192004@gmail.com** For Collaboration/Project or A
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shushant882&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shushant._.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shushant336) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shushant192004@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shushant882&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=shushant882&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/shushant) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shushant)
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
